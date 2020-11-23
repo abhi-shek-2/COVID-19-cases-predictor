@@ -3,7 +3,7 @@ It will predict number of covid cases using data analysis model based on Pandas 
 
 
 
-                                                                            DATA
+                                                                    DATA
 The date used for prediction should be up-to-dated so to get readily available data each time prediction is made, it is brought from an API in Json format using requests API of python.
 
                                                                          PREPROCESSING
